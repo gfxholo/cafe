@@ -16,11 +16,11 @@ body {
 	text-align: center;
 
 	user-select: none;
-	transition: font-size 100ms ease-out;
+	transition: font-size 75ms ease-out;
 }
 
 .flex:active {
-	font-size: 96px;
+	font-size: 64px;
 }
 
 .y {
