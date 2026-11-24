@@ -1,0 +1,33 @@
+body {
+	background-color: black;
+}
+
+.flex {
+	width: 100%;
+	height: 100%;
+
+	display: flex;
+	flex-direction: column;
+	align-content: center;
+	justify-content: center;
+
+	font-size: 36px;
+	font-family: "Verdana", sans-serif;
+	text-align: center;
+}
+
+.y {
+	color: #FFF433;
+}
+
+.w {
+	color: #FFF8E7;
+}
+
+.p {
+	color: #9B59D0;
+}
+
+.b {
+	color: #2D2D2D;
+}
