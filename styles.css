@@ -14,13 +14,11 @@ body {
 	font-size: 72px;
 	font-family: "Verdana", sans-serif;
 	text-align: center;
-
 	user-select: none;
-	transition: font-size 75ms ease-out;
 }
 
 .flex:active {
-	font-size: 64px;
+	flex-direction: column-reverse;
 }
 
 .y {
